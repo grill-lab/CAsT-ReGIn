@@ -41,7 +41,7 @@ Relevance: Does the question (logically) follow on from previous utterances?
     0. Not Relevant - doesn't follow on from the previous utterances, seems to be completely random, to the current conversation, seems to be a completely different conversation.
     1. Partially Relevant - veering off topic, vaguely related, but too divergent from the conversation.
     2. Relevant - follows on, but it is not entirely clear why the question is being presented/asked
-    3 Highly Relevant  - directly follows on and it is clear why the question is being presented/asked
+    3  Highly Relevant  - directly follows on and it is clear why the question is being presented/asked
 
 Novelty: Does the question add new information to the conversation? 
 
