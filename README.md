@@ -39,7 +39,7 @@ We asked crowd workers to assess each question against the following rubric:
 Relevance: Does the question (logically) follow on from previous utterances?
 
     0. Not Relevant - doesn't follow on from the previous utterances, seems to be completely random, to the current conversation, seems to be a completely different conversation.
-    1 Partially Relevant - veering off topic, vaguely related, but too divergent from the conversation.
+    1. Partially Relevant - veering off topic, vaguely related, but too divergent from the conversation.
     2. Relevant - follows on, but it is not entirely clear why the question is being presented/asked
     3 Highly Relevant  - directly follows on and it is clear why the question is being presented/asked
 
@@ -54,8 +54,8 @@ Diversity: Does the question provide a number of options?
 
     0. None. Provides an answer without explicitly trying to provide new avenues for the user to inquire about.
     1. Offers binary choice. (did you mean…) yes/no or A and B
-    2: Offers 3 or more: offers the user a number of choices on how to proceed
-    3: Open ended. Asks a question that invites any number of responses/answers from the user.
+    2. Offers 3 or more: offers the user a number of choices on how to proceed
+    3. Open ended. Asks a question that invites any number of responses/answers from the user.
 
 
 ###  Crowdsourcing and filtering process
@@ -135,8 +135,8 @@ Conciseness: Does the response adequately follow on from the previous utterances
 
     0. No. Response is too wordy or too short. Response may also contain lots of irrelevant content or no relevant information at all
     1. Somewhat, but no: response is a bit wordy and does not adequately address USER’s utterance (i.e the response is longer than needed)
-    2: Yes (but not completely): response is brief but not comprehensive (i.e does not adequately address USER’s utterance/query or properly follow on from the conversation)
-    3: Yes. Response is brief but comprehensive (the response was concise and to the point without too much/little other information)
+    2. Yes (but not completely): response is brief but not comprehensive (i.e does not adequately address USER’s utterance/query or properly follow on from the conversation)
+    3. Yes. Response is brief but comprehensive (the response was concise and to the point without too much/little other information)
 
 ### Crowdsourcing and Filtering Process
 
